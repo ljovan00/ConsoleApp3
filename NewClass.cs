@@ -10,6 +10,8 @@ namespace ConsoleApp3
 
     public NewMethod()
     {
-        Console.WriteLine("Metoda");
+        Console.Writeline("Test");
     }
+    
+
 }
