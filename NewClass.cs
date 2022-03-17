@@ -8,7 +8,8 @@ namespace ConsoleApp3
     {
     }
 
-    
-    
-
+    public NewMethod()
+    {
+        Console.WriteLine("Metoda");
+    }
 }
