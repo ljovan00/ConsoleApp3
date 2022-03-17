@@ -8,7 +8,10 @@ namespace ConsoleApp3
     {
     }
 
-    
+    public NewMethod()
+    {
+        Console.Writeline("Test");
+    }
     
 
 }
